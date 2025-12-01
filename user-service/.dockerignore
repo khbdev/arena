@@ -1,0 +1,22 @@
+# OS fayllari
+.DS_Store
+Thumbs.db
+
+# Git
+.git
+.gitignore
+
+# Build va bin fayllari
+bin/
+*.exe
+*.out
+
+# Secrets / configs
+.env
+
+# Log fayllar
+*.log
+
+# Temporary fayllar
+*.swp
+*.tmp

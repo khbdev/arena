@@ -1,0 +1,22 @@
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Node modules (agar bor bo‘lsa)
+node_modules/
+
+# Build files
+dist/
+build/
+tmp/
+cache/
+
+# OS system files
+.DS_Store
+Thumbs.db
+
+# IDE/project configs
+.vscode/
+.idea/
